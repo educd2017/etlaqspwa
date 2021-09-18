@@ -3,39 +3,39 @@
     "short_name": "دليل المواقع المفيدة -اطلاقس",
     "icons": [
         {
-            "src": "#",
+            "src": "https://lh3.googleusercontent.com/-mMqdXSZ_V54/YUWLgZWMjUI/AAAAAAAAH-c/9V7y4J5toJw8oo7wUY4Xr-LyNJsejNNYwCLcBGAsYHQ/w16-h16/favicon-16x16.png",
             "sizes": "16x16",
             "type": "image/png",
             "purpose": "any maskable"
         },
 		
 		{
-            "src": "#",
+            "src": "https://lh3.googleusercontent.com/-eeDlfQT7eE0/YUWLgQpkxOI/AAAAAAAAH-Y/QjNfEN9bx14UBuT0PwMJ-jBGpWh1U7vYACLcBGAsYHQ/s16000/favicon-32x32.png",
             "sizes": "32x32",
             "type": "image/png",
             "purpose": "any maskable"
         },
 		{
-            "src": "#",
+            "src": "https://lh3.googleusercontent.com/-bL-45GunjWw/YUWLgcDuIoI/AAAAAAAAH-U/wP-yi_JhUK0n0yZSomtXZ82RDL57ZmfoQCLcBGAsYHQ/s16000/apple-touch-icon.png",
             "sizes": "180x180",
             "type": "image/png",
             "purpose": "any maskable"
         },
 		{
-            "src": "#",
+            "src": "https://lh3.googleusercontent.com/-yhL5PGuLtVQ/YUWLgSRU1zI/AAAAAAAAH-g/7FWiGnfShq87R2TF8gVQuPouymOtgrnfACLcBGAsYHQ/s16000/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "#",
+            "src": "https://lh3.googleusercontent.com/-ARYbsPTf1OY/YUWLgg90fhI/AAAAAAAAH-k/8j4aqLUiw5M99SsGA0vQy4RLlJ8LjQB4gCLcBGAsYHQ/s16000/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "background_color": "#1d2660",
     "display": "standalone",
     "prefer_related_applications": false,
   "start_url": "https://etlaqs.aliraafat.com/"
